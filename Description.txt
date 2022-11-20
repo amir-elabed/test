@@ -1,0 +1,14 @@
+* before we begin in development phase, we need to install 2 libraries : Material (icons and core) UI and Recharts
+ npm i @material-ui/icons
+ npm i @material-ui/core
+ npm i recharts
+
+* we used the font "Source Sans Pro" from Google Fonts. we copied the link and style, and we paste inside the file "undex.html"
+
+* install react router
+ npm i react-router-dom@5.3.0
+
+* install material ui data grid 
+ npm install @material-ui/data-grid
+
+* we used data table from material UI 
